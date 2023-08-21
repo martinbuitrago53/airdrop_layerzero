@@ -1,6 +1,6 @@
 # airdrop_layerzero
 ## Que es Layer Zero?
-1. [General Info](#general-info)
+1. [Layer Zero](#Layer-Zero)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
