@@ -1,5 +1,5 @@
 # airdrop_layerzero
-## Table of Contents
+## Que es Layer Zero?
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
